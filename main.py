@@ -32,6 +32,6 @@ def find_smallest_absolute_diff(A: list, B: list) -> int:
             j += 1
         else:
             break
-    A = B = 0
+
     return minimum
 
