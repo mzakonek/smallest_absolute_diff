@@ -37,7 +37,6 @@ def integers_only(list_, returned_values_manager=None):
 def check_if_valid(list_to_check: list, is_ascending: bool) -> None:
     """
     Asserts that checks if input is valid.
-    If length of list is longer than value set in
     """
 
     # check if list has proper type
